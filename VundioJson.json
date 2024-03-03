@@ -1,0 +1,19 @@
+{  
+      "name":"VundioVentoryCollab",
+      "description":"A Collectibles Assets of Vundio Milestones",
+      "image":"ipfs://bafybeihovafcy35jswuszgfwtv35r5jd6potkuitir5ynxwzqvsnwbriu4",
+      "external_url":"",
+      "attributes": [{
+                 "trait_type": "BACKGROUND",
+                 "value": "Colors Hologram"
+           },
+           {
+                 "trait_type": "Vundio",
+                 "value": "First Milestone Venom"
+           },
+           {
+                 "trait_type": "Ventory",
+                 "value": "First Mainnet Collab"
+           }
+      ]
+}
